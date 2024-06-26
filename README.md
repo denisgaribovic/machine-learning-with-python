@@ -57,4 +57,5 @@ This repository emphasizes the following techniques and best practices:
 - Scikit-learn
 - Matplotlib
 - Seaborn
+- Plotly
 - Jupyter Notebook
