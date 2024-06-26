@@ -23,10 +23,6 @@ This repository showcases my journey through the diverse landscape of machine le
   - Simple Linear Regression
   - Multiple Linear Regression
   - Polynomial Regression
-- **Regularized Regression**
-  - Ridge Regression
-  - Lasso Regression
-  - Elastic Net
 
 ### Classification Models
 - **Logistic Regression**
