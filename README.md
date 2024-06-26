@@ -1,4 +1,4 @@
-# Machine Learning Model Exploration and Development
+# Machine Learning with Python
 
 Welcome to my Machine Learning repository! This repository is dedicated to solidifying my machine learning skills through the implementation and exploration of various machine learning models. Here, you will find a comprehensive collection of projects and experiments ranging from regression and classification models to clustering techniques. Each project demonstrates the application of key machine learning concepts and best practices.
 
