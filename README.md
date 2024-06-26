@@ -1,6 +1,6 @@
 # Machine Learning Model Exploration and Development
 
-Welcome to my Machine Learning repository! This repository is dedicated to solidifying my machine learning skills through the implementation and exploration of various machine learning models. Here, you will find a comprehensive collection of projects and experiments ranging from regression and classification models to clustering techniques. Each project demonstrates the application of key machine learning concepts and best practices, making it a valuable asset for job applications and professional development.
+Welcome to my Machine Learning repository! This repository is dedicated to solidifying my machine learning skills through the implementation and exploration of various machine learning models. Here, you will find a comprehensive collection of projects and experiments ranging from regression and classification models to clustering techniques. Each project demonstrates the application of key machine learning concepts and best practices.
 
 ## Table of Contents
 
