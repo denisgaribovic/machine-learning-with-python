@@ -21,10 +21,9 @@ This repository showcases my journey through the diverse landscape of machine le
 ## Projects
 
 ### Regression Models
-- **Linear Regression**
-  - Simple Linear Regression
-  - Multiple Linear Regression
-  - Polynomial Regression
+- **Linear Regression with one variable**
+- **Linear Regression with multiple variables**
+- **Polynomial Regression**
 
 ### Classification Models
 - **Logistic Regression**
