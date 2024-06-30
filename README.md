@@ -6,7 +6,7 @@ This repository is dedicated to solidifying my machine learning skills through t
 
 Each project demonstrates the application of key machine learning concepts and best practices. My code includes detailed implementations of various models, accompanied by in-depth explanations and visualizations. 
 
-My goal is to demonstrate my proficiency in different machine learning techniques and my ability to utilize Python to solve real-world problems.
+My goal is to demonstrate my proficiency in different machine learning techniques and my ability to utilize Python to solve real-world problems. This repository also serves as a point of reference and documentation which allows me to access frequently used code in an efficient manner.
 
 ## Table of Contents
 
