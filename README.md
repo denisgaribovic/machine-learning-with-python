@@ -10,7 +10,6 @@ My goal is to demonstrate my proficiency in different machine learning technique
 
 ## Table of Contents
 
-- [Overview](#overview)
 - [Projects](#projects)
   - [Regression Models](#regression-models)
   - [Classification Models](#classification-models)
