@@ -31,7 +31,6 @@ My goal is to demonstrate my proficiency in different machine learning technique
 - **Support Vector Machines (SVM)**
 - **K-Nearest Neighbors (KNN)**
 - **Naive Bayes**
-- **Neural Networks**
 
 ### Clustering Models
 - **K-Means Clustering**
