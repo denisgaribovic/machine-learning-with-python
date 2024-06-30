@@ -4,9 +4,9 @@ Welcome to my Machine Learning repository!
 
 This repository is dedicated to solidifying my machine learning skills through the implementation and exploration of various machine learning models in Python. Here, you will find a comprehensive collection of projects and experiments ranging from regression and classification models to clustering techniques. 
 
-Each project demonstrates the application of key machine learning concepts and best practices. My code includes detailed implementations of various models, accompanied by in-depth explanations and visualizations. 
+Each section includes theoretical overviews, practical implementations of various models, in-depth explanations, visualizations and the application of key machine learning concepts and best practices.  
 
-My goal is to demonstrate my proficiency in different machine learning techniques and my ability to utilize Python to solve real-world problems. This repository also serves as a point of reference and documentation which allows me to access frequently used code in an efficient manner.
+My goal is to demonstrate my proficiency in different machine learning techniques and my ability to use Python to solve real-world problems. This repository also serves as a point of reference and documentation which allows me to access frequently used code in an efficient manner.
 
 ## Table of Contents
 
