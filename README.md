@@ -14,6 +14,7 @@ My goal is to demonstrate my proficiency in different machine learning technique
   - [Regression Models](#regression-models)
   - [Classification Models](#classification-models)
   - [Clustering Models](#clustering-models)
+  - [Bonus](#bonus)
 - [Techniques and Best Practices](#techniques-and-best-practices)
 - [Dependencies](#dependencies)
 
@@ -34,8 +35,10 @@ My goal is to demonstrate my proficiency in different machine learning technique
 
 ### Clustering Models
 - **K-Means Clustering**
-- **Hierarchical Clustering**
-- **DBSCAN**
+
+### Bonus
+- **Natural Language Processing**
+- **Neural Networks**
 
 ## Techniques and Best Practices
 
@@ -46,6 +49,7 @@ This repository emphasizes the following techniques and best practices:
 - **Model Evaluation:** Using metrics like accuracy, precision, recall, F1 score, and ROC-AUC to assess model performance.
 - **Feature Engineering:** Techniques to transform raw data into meaningful features that improve model performance.
 - **One-Hot Encoding:** Converting categorical variables into a form that can be provided to machine learning algorithms.
+- **Feature Scaling:** Normalizing or standardizing features to ensure they contribute equally to the model, commonly using techniques like Min-Max Scaling or Standardization.
 - **Hyperparameter Tuning:** Techniques such as Grid Search and Random Search to find the best model parameters.
 - **Data Visualization:** Using libraries like Matplotlib and Seaborn to create insightful visualizations of the data and model results.
 
