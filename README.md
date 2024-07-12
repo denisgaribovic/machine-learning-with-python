@@ -31,12 +31,12 @@ Here, you will find a comprehensive collection of projects, including:
 ### Machine Learning Techniques
 
 - **Train/Test Split**
-- **Model Evaluation**
 - **K-Fold Cross Validation**
 - **Feature Engineering**
 - **One-Hot Encoding**
 - **Label Encoding**
 - **Feature Scaling**
+- **Model Evaluation**
 - **Hyperparameter Tuning**
 - **Principal Component Analysis**
 
