@@ -40,10 +40,6 @@ Here, you will find a comprehensive collection of projects, including:
 - **Hyperparameter Tuning**
 - **Principal Component Analysis**
 
-### Bonus
-- **Natural Language Processing**
-- **Neural Networks**
-
 ## How are the projects structured?
 
 The projects are sorted in chronological order. Each section of the course is represented by a folder. In each folder, you will find a Jupyter Notebook. These Notebooks contain:
@@ -54,6 +50,8 @@ The projects are sorted in chronological order. Each section of the course is re
 - **Visualizations**: Graphs and plots to illustrate key points
 - **Best Practices**: Tips and techniques for effective machine learning
 - **Conclusions**: Summaries for each section
+
+Note: I led the development and implementation of all the code showcased in the repository, and also utilized ChatGPT to refine both the code and theoretical explanations, thereby enhancing the overall project quality.
 
 ## Dependencies
 
