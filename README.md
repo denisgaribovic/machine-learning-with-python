@@ -2,15 +2,17 @@
 
 Welcome to my Machine Learning repository!
 
-In the summer of 2024, I enrolled in the German Udemy course by Jannis Seemann titled [Machine Learning from A-Z: Learn Python & R for Data Science!](https://www.udemy.com/course/machine-learning-komplett/). This repository is a result of my journey through that course and beyond.
+In the summer of 2024, I enrolled in the German Udemy course by Jannis Seemann titled [Machine Learning from A-Z: Learn Python & R for Data Science!](https://www.udemy.com/course/machine-learning-komplett/) which I completed on July 14, 2024.
 
-## About This Repository
+My goal was to become more familiar with Machine Learning in general, understand the theory behind various models, learn specific techniques utilized in Machine Learning and build robust ML models using Python. This repository is a result of my journey through that course and showcases the machine learning skills I acquired by completing the course.
 
-My goal was to become more familiar with Machine Learning in general, understand the theory behind various models, learn specific techniques utilized in Machine Learning and implement ML models using Python. This repository aims to demonstrate the results and showcases the machine learning skills I acquired by completing the course. It also serves as a centralized place where I maintain a collection of frequently used code snippets and methodologies for future reference.
+![alt text](https://github.com/denisgaribovic/machine-learning-with-python/blob/main/Certificate.jpg)
 
-## Projects
+## About this Repository
 
-Here, you will find a comprehensive collection of projects, including:
+In this repository, you will find a comprehensive collection of projects which cover a broad scope of the Machine Learning landscape. 
+
+These projects include:
 
 ### Regression Models
 - **Simple Linear Regression**
@@ -40,9 +42,11 @@ Here, you will find a comprehensive collection of projects, including:
 - **Hyperparameter Tuning**
 - **Principal Component Analysis**
 
-## How are the projects structured?
+## Structure of this Repository
 
-The projects are sorted in chronological order. Each section of the course is represented by a folder. In each folder, you will find a Jupyter Notebook. These Notebooks contain:
+I created a folder for each section of the course. In each folder, you will find a Jupyter Notebook which revolves around a certain topic (e.g. Simple Linear Regression). 
+
+Each Jupyter Notebook contains:
 
 - **Theoretical Overviews**: Understanding the concepts behind a model or ML concept
 - **Practical Implementations**: Hands-on coding examples and applications
@@ -51,7 +55,7 @@ The projects are sorted in chronological order. Each section of the course is re
 - **Best Practices**: Tips and techniques for effective machine learning
 - **Conclusions**: Summaries for each section
 
-Note: I led the development and implementation of all the code showcased in the repository, and also utilized ChatGPT to refine both the code and theoretical explanations, thereby enhancing the overall project quality.
+Note: I led the development and implementation of all the code showcased in the repository and also utilized ChatGPT to refine both the code and theoretical explanations, thereby enhancing the overall quality. The course focuses on both Python and R but I mainly focused on the implementation of Python code.
 
 ## Dependencies
 
